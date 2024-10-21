@@ -1,6 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 # AIM :
- To write a C program to implement a symbol table.
+To write a C program to implement a symbol table.
 # ALGORITHM
 1.	Start the program.
 2.	Get the input from the user with the terminating symbol ‘$’.
